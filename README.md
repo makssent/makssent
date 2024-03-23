@@ -9,9 +9,9 @@ I am a beginner Mobile developer. My journey in IT began with studying at the un
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools:</h2>
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 <div style="border-top: 1px solid black; padding-top: 1px;">
   <h2>My Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"></h2>
@@ -27,11 +27,11 @@ I am a beginner Mobile developer. My journey in IT began with studying at the un
   </tr>
 </table>
 
-<details>
-  <summary>
-    <b>Certificates and other information</b> <img src="assets/click.gif" style="width:25px; border-radius: 50%;">
+<details style="background-color: white; border: 1px solid #ccc; border-radius: 4px; padding: 0.5em; margin: 1em 0;">
+  <summary style="color: black;">
+    <b>Certificates and other information</b> <img src="Assets/click.gif" style="width:25px; border-radius: 50%;">
   </summary>
 
-<img src="Assets/date.jpg" alt="date_registration" />
-
+  <img src="Assets/date.jpg" alt="date_registration" style="display: block; margin: 1em auto; max-width: 100%;"/>
 </details>
+
