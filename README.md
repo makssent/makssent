@@ -32,6 +32,6 @@ I am a beginner Mobile developer. My journey in IT began with studying at the un
     <b>Certificates and other information</b> <img src="assets/click.gif" style="width:25px; border-radius: 50%;">
   </summary>
 
-  ![Certificate Image](assets/date_registr.PNG)
+<img src="assets/date_registr.PNG" alt="date_registration" />
 
 </details>
