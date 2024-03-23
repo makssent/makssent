@@ -29,9 +29,8 @@ I am a beginner Mobile developer. My journey in IT began with studying at the un
 
 <details style="background-color: white; border: 1px solid #ccc; border-radius: 4px; padding: 0.5em; margin: 1em 0;">
   <summary style="color: black;">
-    <b>Certificates and other information</b> <img src="Assets/click.gif" style="width:25px; border-radius: 50%;">
+    <b>Certificates and other information</b>
   </summary>
-
   <img src="Assets/date.jpg" alt="date_registration" style="display: block; margin: 1em auto; max-width: 100%;"/>
 </details>
 
