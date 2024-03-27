@@ -23,6 +23,7 @@ I am a beginner Mobile developer. My journey in IT began with studying at the un
 </div>
 
 <div style="border-top: 1px solid black; padding-top: 1px;">
+<hr>
   <h2>My Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"></h2>
 </div>
 
