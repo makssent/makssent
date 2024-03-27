@@ -8,7 +8,6 @@ I am a beginner Mobile developer. My journey in IT began with studying at the un
 <img height="250" width="700" src="https://media.tenor.com/um_qmSDo92YAAAAi/looking-for-a-job-job.gif">
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools:</h2>
-
 <div style="display: flex;">
   <a href="https://firebase.google.com/" style="margin-right: 5px;">
     <img height="30" src="Assets/firebase-svgrepo-com.svg">
