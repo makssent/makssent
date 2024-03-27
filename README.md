@@ -9,30 +9,19 @@ I am a beginner Mobile developer. My journey in IT began with studying at the un
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools:</h2>
 <div style="display: flex;">
-  <a href="https://firebase.google.com/" style="margin-right: 5px;">
-    <img height="30" src="Assets/firebase-svgrepo-com.svg">
-  </a>
+  <img height="30" src="Assets/firebase-svgrepo-com.svg" style="margin-right: 5px;">
 
-  <a href="https://developer.android.com/" style="margin-right: 5px;">
-    <img height="30" src="Assets/android-svgrepo-com.svg">
-  </a>
+  <img height="30" src="Assets/android-svgrepo-com.svg" style="margin-right: 5px;">
 
-  <a href="https://kotlinlang.org/" style="margin-right: 5px;">
-    <img height="30" src="Assets/kotlin-svgrepo-com.svg">
-  </a>
+  <img height="30" src="Assets/kotlin-svgrepo-com.svg" style="margin-right: 5px;">
 
-  <a href="https://www.java.com/" style="margin-right: 5px;">
-    <img height="30" src="Assets/java-original.svg">
-  </a>
+  <img height="30" src="Assets/java-original.svg" style="margin-right: 5px;">
 
-  <a href="https://isocpp.org/" style="margin-right: 5px;">
-    <img height="30" src="Assets/cpp-svgrepo-com.svg">
-  </a>
+  <img height="30" src="Assets/cpp-svgrepo-com.svg" style="margin-right: 5px;">
 
-  <a href="https://www.sql.org/" style="margin-right: 5px;">
-    <img height="30" src="Assets/sql-database-generic-svgrepo-com.svg">
-  </a>
+  <img height="30" src="Assets/sql-database-generic-svgrepo-com.svg">
 </div>
+
 <div style="border-top: 1px solid black; padding-top: 1px;">
   <h2>My Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"></h2>
 </div>
