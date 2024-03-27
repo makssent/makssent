@@ -9,10 +9,31 @@ I am a beginner Mobile developer. My journey in IT began with studying at the un
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools:</h2>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<div style="display: flex;">
+  <a href="https://firebase.google.com/" style="margin-right: 5px;">
+    <img height="30" src="Assets/firebase-svgrepo-com.svg">
+  </a>
 
+  <a href="https://developer.android.com/" style="margin-right: 5px;">
+    <img height="30" src="Assets/android-svgrepo-com.svg">
+  </a>
+
+  <a href="https://kotlinlang.org/" style="margin-right: 5px;">
+    <img height="30" src="Assets/kotlin-svgrepo-com.svg">
+  </a>
+
+  <a href="https://www.java.com/" style="margin-right: 5px;">
+    <img height="30" src="Assets/java-original.svg">
+  </a>
+
+  <a href="https://isocpp.org/" style="margin-right: 5px;">
+    <img height="30" src="Assets/cpp-svgrepo-com.svg">
+  </a>
+
+  <a href="https://www.sql.org/" style="margin-right: 5px;">
+    <img height="30" src="Assets/sql-database-generic-svgrepo-com.svg">
+  </a>
+</div>
 <div style="border-top: 1px solid black; padding-top: 1px;">
   <h2>My Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"></h2>
 </div>
