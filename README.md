@@ -20,6 +20,8 @@ I am a beginner Mobile developer. My journey in IT began with studying at the un
   <img height="35" src="Assets/cpp-svgrepo-com.svg" style="margin-right: 5px;">
 
   <img height="35" src="Assets/sql-database-generic-svgrepo-com.svg">
+
+  <img height="35" src="Assets/github-142-svgrepo-com.svg">
 </div>
 
 <div style="border-top: 1px solid black; padding-top: 1px;">
